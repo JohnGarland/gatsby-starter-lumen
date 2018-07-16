@@ -1,7 +1,20 @@
 ---
-title: L - Space
+title: 
 date: "2018-04-10T17:10:32.169Z"
 ---
+title: L - Space
+date: "2018-07-16T22:40:32.169Z"
+layout: post
+draft: false
+path: "/posts/Digital-journeys/"
+category: "Typography"
+tags:
+  - "Design"
+  - "Typography"
+  - "Web Development"
+description: "An article by John Garland."
+---
+
 
 
 Can we find a new way to use libraries online?
