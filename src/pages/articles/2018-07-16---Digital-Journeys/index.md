@@ -1,7 +1,4 @@
 ---
-title: 
-date: "2018-04-10T17:10:32.169Z"
----
 title: L - Space
 date: "2018-07-16T22:40:32.169Z"
 layout: post
