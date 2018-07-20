@@ -6,19 +6,20 @@ draft: false
 path: "/posts/TheLightbeckons/"
 category: "Typography"
 tags:
-  - "Design"
-  - "Typography"
+  - "Games"
+  - "RPG"
   - "Web Development"
-description: "An Essay on Typography by Eric Gill takes the reader back to the year 1930. The year when a conflict between two worlds came to its term. The machines of the industrial world finally took over the handicrafts."
+description: "A list of six new worlds for a forthcoming one shot roleplaying game."
 ---
 
 # The Light Beckons
-
+So these are six worlds I thought might be fun to play in, with. If they interest you, hit me up on @informationhead 
 ##Six Worlds 
 ### 1.  Myazaki’s World 
-	￼
+	￼![Pazu.jpg](./Pazu.jpg)
+	
 	. Laputa and floating cities 
-	. Avalonians 
+  Avalonians 
 	. hidden Deepwater Atlantiads. 
 	. Guardian automatons
 	. A real sense of wonder
