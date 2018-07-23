@@ -18,7 +18,7 @@ class Links extends React.Component {
       <div className="links">
         <ul className="links__list">
           <li className="links__list-item">
-            <a href={`https://www.twitter.com/${links.twitter}`} target="_blank" >
+            <a href={`https://www.twitter.com/informationhead/${links.twitter}`} target="_blank" >
               <i className="icon-twitter" />
             </a>
           </li>
