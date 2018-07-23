@@ -46,7 +46,4 @@ Aurochs who love  marsh weed and feather lichen move in.   Wyverns and ogres lov
   * Monty’s obsessive quality. 
 
 ###6.Fey Knights 
-  * Green Knight was the good guy.  One of the Fey Knights. 
-
-￼
-
+  * Green Knight was the good guy.  One of the Fey Knights.
