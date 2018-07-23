@@ -38,6 +38,7 @@ Aurochs who love  marsh weed and feather lichen move in.   Wyverns and ogres lov
   * Mythago wood meets LOTR? 
 
 ###5.Monty’s world
+![Robert Lloyd Parry as M R James](./lloydparry2.jpg)
   * British Folklore 
   * Hairy skeletal things
   * Toad things 
