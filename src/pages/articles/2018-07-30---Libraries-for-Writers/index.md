@@ -9,13 +9,12 @@ tags:
   - "Books"
   - "Writing"
   - "Libraries"
-description: "Why visiting your library (online or IRL) is a great thing to do. 
+description: "Why visiting your library (online or IRL) is a great thing to do.
+ 
 774 words (6 minutes to read)"
 ---
 
- 
-
-I’m a writer of fantasy, and a librarian too. Here are my thoughts on why you should visit your library. If you already visit your library In Real Life just read  Get Online at a Library.
+I’m a writer of fantasy, and a librarian too. Here are my thoughts on why you should visit your library. If you already visit your library just read [Get Online at a Library](#GOL).
 
 If it's been a while since you visited a library here are a few reasons why you might want to step inside one:
 
@@ -28,15 +27,15 @@ Library staff are some of the most clued in people when it comes to research, ne
 
 image from [Libraries Taskforce](https://www.flickr.com/photos/135302410@N02/) https://www.flickr.com/photos/135302410@N02/41276375385/sizes/o/ (CC 2.0)
 
-1.Impartiality - apart from the fact that they're run by the local council (in the UK anyway) they're against censorship and the information you find in them has been curated and fact checked already. That doesn’t mean you should take everything at face value, but hey, you knew that you're a writer!
-2.    Free - not just free to borrow the books, but free to stay in all day. Do yourself a favour though, be nice to the staff who work there and maybe buy them a packet of biscuits or something… As a writer, how much would it cost you to stay in a café all day?
-3.    They aren't the same as bookshops. That's important because they have really different collections. Not just the latest books but specialist books, curios and things not in print, Which Is a Good thing!
-4.    The Serendipity factor. Getting out of the house and being some place new is very good for writers - try looking at sections of the library you wouldn't normally look at. If you're a Crime writer, that DIY section might give you some really unique ways to kill someone and hide the evidence….
+1. Impartiality - apart from the fact that they're run by the local council (in the UK anyway) they're against censorship and the information you find in them has been curated and fact checked already. That doesn’t mean you should take everything at face value, but hey, you knew that you're a writer!
+2. Free - not just free to borrow the books, but free to stay in all day. Do yourself a favour though, be nice to the staff who work there and maybe buy them a packet of biscuits or something… As a writer, how much would it cost you to stay in a café all day?
+3. They aren't the same as bookshops. That's important because they have really different collections. Not just the latest books but specialist books, curios and things not in print, Which Is a Good thing!
+4. The Serendipity factor. Getting out of the house and being some place new is very good for writers - try looking at sections of the library you wouldn't normally look at. If you're a Crime writer, that DIY section might give you some really unique ways to kill someone and hide the evidence….
 
 
 Libraries need you, but you might need them too. If you're a new author, libraries are often really keen to run author events, the trick is to find the person who looks after events for the libraries service, they might not be out at the desk, so you might need to hunt around for them. It doesn't matter if they don't stock your books, if you run an event they'll buy your books, (probably) and that can only help build your fanbase.
 
-#Get Online at a Library
+# <a name="GOL"> </a>Get Online at a Library
 
 There are some amazing ways libraries can help you as a writer without you even setting foot in the building. You too can fit 22 volumes of the Oxford English Dictionary in your pocket!
 
