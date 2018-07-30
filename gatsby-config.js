@@ -13,7 +13,7 @@ module.exports = {
 	  {
 		  label: 'Gaming',
 		  path: '/categories/gaming/'
-	  }
+	  },
       {
         label: 'About',
         path: '/about/'

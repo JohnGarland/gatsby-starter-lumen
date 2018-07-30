@@ -20,8 +20,7 @@ If it's been a while since you visited a library here are a few reasons why you 
 #Get into a Library
 
 Library staff are some of the most clued in people when it comes to research, networking and just finding you accurate answers.
-
-![image of a library](./Suttonlibrary,jpg)
+![image of a library](./suttonlibrary,jpg)
 
 image from [Libraries Taskforce](https://www.flickr.com/photos/135302410@N02/) https://www.flickr.com/photos/135302410@N02/41276375385/sizes/o/ (CC 2.0)
 
