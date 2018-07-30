@@ -8,13 +8,15 @@ category: "Gaming"
 tags:
   - "Games"
   - "RPG"
-  - "Web Development"
-description: "A list of six new worlds for a forthcoming one shot roleplaying game."
+  - "HARP"
+description: "A list of six new worlds for a forthcoming one-shot roleplaying game."
 ---
 
 So these are six worlds I thought might be fun to play in, with. If they interest you, hit me up on 
 [@informationhead](https://twitter.com/informationhead) 
 :) John.  
+
+*Update * my players have decided they want to do MR James AND Palisade! should be fun.
 
 ##Six Worlds 
 ### 1.  Myazaki’s World 

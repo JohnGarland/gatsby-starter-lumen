@@ -18,6 +18,7 @@ description: "support bookshops and sell your own books too"
 Support your local bookshope with the [hive] (https://www.hive.co.uk/). This cool website lets you buy books online which you can then collect from your local bookshop or have delivered to you. 
 
 https://www.hive.co.uk/ 
+![The hive] (./hive.jpg)
 
 ##Promote kindle books internationally
  

@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     url: 'https://lumen.netlify.com',
-    title: 'Blog by John Garland',
+    title: 'A Blog by John Garland',
     subtitle: 'A website about Libraries, Writing and Gaming.',
     copyright: '© All rights reserved.',
     disqusShortname: '',
@@ -11,11 +11,11 @@ module.exports = {
         path: '/'
       },
       {
-        label: 'About me',
+        label: 'About',
         path: '/about/'
       },
       {
-        label: 'Contact me',
+        label: 'Contact',
         path: '/contact/'
       }
     ],
@@ -23,7 +23,7 @@ module.exports = {
       name: 'John Garland',
       email: '#',
       telegram: '#',
-      twitter: '#',
+      twitter: '@informationhead',
       github: '#',
       rss: '#',
       vk: '#'
