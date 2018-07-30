@@ -4,7 +4,7 @@ date: "2018-07-22T10:32:32.169Z"
 layout: post
 draft: false
 path: "/posts/bookshops-and-international-amazon-links/"
-category: "Tips"
+category: "Libraries"
 tags:
   - "Books"
   - "Writing"

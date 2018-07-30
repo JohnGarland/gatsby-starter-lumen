@@ -4,7 +4,7 @@ date: "2018-03-01T10:46:37.121Z"
 layout: post
 draft: false
 path: "/posts/TheSnowGlobe"
-category: "Librarian"
+category: "Libraries"
 tags:
   - "Libraries"
   - "Single Sign On"
