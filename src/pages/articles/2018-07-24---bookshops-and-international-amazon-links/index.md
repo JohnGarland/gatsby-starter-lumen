@@ -1,5 +1,5 @@
 ---
-title:  Bookshops and International Amazon Links
+title: support UK Bookshops and International Amazon Links
 date: "2018-07-22T10:32:32.169Z"
 layout: post
 draft: true

@@ -4,7 +4,7 @@ date: "2018-07-20T12:40:32.169Z"
 layout: post
 draft: false
 path: "/posts/TheLightbeckons/"
-category: "Typography"
+category: "Gaming"
 tags:
   - "Games"
   - "RPG"

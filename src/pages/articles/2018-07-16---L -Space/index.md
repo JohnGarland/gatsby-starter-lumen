@@ -4,11 +4,11 @@ date: "2018-07-16T22:40:32.169Z"
 layout: post
 draft: false
 path: "/posts/Digital-journeys/"
-category: "Typography"
+category: "Libraries"
 tags:
-  - "Design"
-  - "Typography"
-  - "Web Development"
+  - "Libraries"
+  - "Digital"
+  - "libraries online"
 description: "An article by John Garland."
 ---
 
