@@ -17,5 +17,5 @@ I’m currently rewriting  Beware the Million Men, my novel about a man called H
 John
 
 ![Jack Gerillion inside a windmill - version1](./jackin-the-mill1.jpg)
-![Jack Gerillion inside a windmill - version2](./jackin-the-mill1.jpg)
+![Jack Gerillion inside a windmill - version2](./jackin-the-mill2.jpg)
 
