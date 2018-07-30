@@ -11,16 +11,20 @@ module.exports = {
         path: '/'
       },
 	  {
+		  label:'Libraries'
+		  path: '/categories/libraries/'
+	  },
+	  {
+		  label:'Writing'
+		  path: '/categories/writing/'
+	  },
+	  {
 		  label: 'Gaming',
 		  path: '/categories/gaming/'
 	  },
       {
         label: 'About',
         path: '/about/'
-      },
-      {
-        label: 'Contact',
-        path: '/contact/'
       }
     ],
     author: {
