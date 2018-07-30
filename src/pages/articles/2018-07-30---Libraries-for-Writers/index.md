@@ -2,7 +2,7 @@
 title: Libraries for Writers
 date: "2018-07-30T12:14:32.169Z"
 layout: post
-draft: true
+draft: false
 path: "/posts/libraries-for-writers/"
 category: "Writing"
 tags:
