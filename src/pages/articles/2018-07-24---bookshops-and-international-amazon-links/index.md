@@ -8,7 +8,7 @@ category: "Tips"
 tags:
   - "Books"
   - "Writing"
-description: "support bookshops and sell your own books too"
+description: "Support bookshops and sell your own books too"
 ---
 
   

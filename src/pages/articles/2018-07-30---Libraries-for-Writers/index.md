@@ -16,12 +16,10 @@ description: "Why visiting your library (online or IRL) is a great thing to do.
 
 I’m a writer of fantasy, and a librarian too. Here are my thoughts on why you should visit your library. If you already visit your library just read [Get Online at a Library](#GOL).
 
-If it's been a while since you visited a library here are a few reasons why you might want to step inside one:
-
+If it's been a while since you visited a library here are a few reasons why you might want to step inside one.
 #Get into a Library
 
 Library staff are some of the most clued in people when it comes to research, networking and just finding you accurate answers.
-
 
 ![image of a library](./Suttonlibrary,jpg)
 

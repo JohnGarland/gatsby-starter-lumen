@@ -16,7 +16,7 @@ So these are six worlds I thought might be fun to play in, with. If they interes
 [@informationhead](https://twitter.com/informationhead) 
 :) John.  
 
-*Update * my players have decided they want to do MR James AND Palisade! should be fun.
+**Update** my players have decided they want to do MR James **AND** Palisade! should be fun.
 
 ##Six Worlds 
 ### 1.  Myazaki’s World 
